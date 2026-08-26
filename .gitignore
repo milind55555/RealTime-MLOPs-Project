@@ -1,6 +1,10 @@
 .dvc
 .venv
-
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
 models/*.pkl
 *.pyc
 __pycache__/
