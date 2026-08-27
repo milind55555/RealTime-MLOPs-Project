@@ -13,4 +13,4 @@ spec:
       modelFormat:
         name: sklearn
       runtime: kserve-sklearnserver
-      storageUri: s3://churn-model-prediction-demo/model
+      storageUri: s3://churn-model-bucket-cicd-milind/models
