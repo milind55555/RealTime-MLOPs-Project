@@ -12,3 +12,4 @@ __pycache__/
 .dvc/tmp
 .venv/
 k8s/svcaccount.yaml
+./k8s/svcaccount.yaml
